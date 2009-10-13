@@ -1,0 +1,5 @@
+this is a small and simple implementation of the boids algorithm by Craig Reynolds.
+
+it uses the processingJS javascript library. works well in every modern browser.
+
+beware: it is not perfect. there is still a lot of room for improvement. i will do that as soon as I find some time for it.
